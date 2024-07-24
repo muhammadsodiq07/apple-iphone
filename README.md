@@ -768,11 +768,6 @@ canvas {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
-
-
 
 #   a p p l e - i p h o n e 
  
